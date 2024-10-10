@@ -69,4 +69,4 @@ Rust has been a great experience so far, it is so cool to get to do C/C++ simila
 Please feel free to read through or use any of the code here .
 
 - UlrichNyx
-  <img src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" width="64" height="32" alt="Suicune Run">
+  <img src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" width="128" height="64" alt="Suicune Run">
