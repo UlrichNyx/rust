@@ -3,12 +3,12 @@ Welcome to my Rust learning journey! I'm following along with [The Rust Programm
 
 ## 📚 Table of Contents
 
-- [Chapter 1: Getting Started](#chapter-1-getting-started)
-- [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
-- [Chapter 3: Common Programming Concepts](#chapter-3-common-programming-concepts)
-- [Chapter 4: Understanding Ownership](#chapter-4-understanding-ownership)
-- [Chapter 5: Using Structs](#chapter-5-using-structs)
-- [Chapter 6: Enums and Pattern Matching](#chapter-6-enums-and-pattern-matching)
+- [Chapter 1: Getting Started 🏁](#chapter-1-getting-started-)
+- [Chapter 2: Programming a Guessing Game 🎲](#chapter-2-programming-a-guessing-game-)
+- [Chapter 3: Common Programming Concepts 🧠](#chapter-3-common-programming-concepts-)
+- [Chapter 4: Understanding Ownership 🦀](#chapter-4-understanding-ownership-)
+- [Chapter 5: Using Structs 🏗️](#chapter-5-using-structs-)
+- [Chapter 6: Enums and Pattern Matching 🎭](#chapter-6-enums-and-pattern-matching-)
 
 # Chapter 1: Getting Started 🏁
 
@@ -21,7 +21,7 @@ As an extra challenge, I implemented a leaderboard which is shown to the users a
 
 # Chapter 3: Common Programming Concepts 🧠
 
-Here, I explored variables, mutability, data types, functions, and control flow. I wrote a graphical interface which you can use to convert temperature from degrees Celsius to Farenheit and vice versa.
+Here, I explored variables, mutability, data types, functions, and control flow. I wrote a graphical interface which you can use to convert temperature from degrees Celsius to Fahrenheit and vice versa.
 
 # Chapter 4: Understanding Ownership 🦀
 
@@ -29,13 +29,13 @@ The ownership system is one of Rust’s unique features, ensuring memory safety 
 
 # Chapter 5: Using Structs 🏗️
 
-I built custom types using structs. This chapter taught me how to create and use structs to structure complex data, like building a program that models user information. The structs I built was for calculations using a Rectangle and displaying a todo list for users.
+I built custom types using structs. This chapter taught me how to create and use structs to structure complex data, like building a program that models user information. The structs I built were for calculations using a Rectangle and displaying a todo list for users.
 
 # Chapter 6: Enums and Pattern Matching 🎭
 
 This chapter was all about enums and pattern matching, which is a powerful way to handle different cases in Rust. I used enums to create a simple application that responds differently based on various inputs and learned to match them efficiently. I built a small matching of transportation methods to the time it takes for them to travel a certain distance.
 
-Please feel free to read through or use any of the code here .
+Please feel free to read through or use any of the code here.
 
 ~ UlrichNyx
 <img src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" width="164" height="64" alt="Suicune Run">
