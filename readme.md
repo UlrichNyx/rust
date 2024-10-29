@@ -41,5 +41,9 @@ Please feel free to read through or use any of the code here.
 
 This chapter focused on structuring large Rust projects. I learned how to organize code into packages, crates, and modules for better readability and maintainability. By dividing my animal simulation into separate modules for mammals and birds, I made the project more scalable and easier to manage.
 
+# Chapter 8: Common Collections 📝
+
+This chapter introduced three collections: Vectors, Strings and Hashmaps. As a challenge, I created a small application which counts words in a text, sorts them and displays the frequency of the words.
+
 ~ UlrichNyx
 <img src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" width="164" height="64" alt="Suicune Run">
