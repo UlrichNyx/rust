@@ -10,7 +10,7 @@ fn main() {
     let filename = input.trim();
     let greeting_file_result = File::open(filename);
 
-    let greeting_file = match greeting_file_result {
+    let mut greeting_file = match greeting_file_result {
         Ok(file) => file,
         Err(error) => match error.kind() {
             // Ask if they would like to create
@@ -23,6 +23,7 @@ fn main() {
             }
         },
     };
-    // Read the contents of the file
-    // Implement retry functionality
+    let mut buffer = String::new(); 
+    greeting_file.read_to_string( &mut buffer);
+    println!("{}", buffer);
 }
