@@ -45,9 +45,21 @@ This chapter focused on structuring large Rust projects. I learned how to organi
 
 This chapter introduced three collections: Vectors, Strings and Hashmaps. As a challenge, I created a small application which counts words in a text, sorts them and displays the frequency of the words.
 
-# Chapter 8: Common Collections 📝
+# Chapter 9: Error Handling ❌
 
 This chapter introduced error handling with Result and the panic! macro. I extended on this chapter by taking the File reading example and implementing my own logic for error handling on it.
+
+# Chapter 10: Generic Types, Traits, and Lifetimes
+
+Wooooo spooky
+
+# Chapter 11: Writing Automated Tests
+
+Experimented around with Rust's test capabilities. Made a test suite for the Rectangle struct defined previously.
+
+# Chapter 12: An I/O Project: Building a Command Line Program
+
+Followed along the tutorial on this chapter by creating a Rust based version of grep!
 
 ~ UlrichNyx
 <img src="https://64.media.tumblr.com/9e501ee6984a28f60f5dc244606548e0/tumblr_n9rijb2Un21r7tm2fo1_500.gif" width="164" height="64" alt="Suicune Run">
