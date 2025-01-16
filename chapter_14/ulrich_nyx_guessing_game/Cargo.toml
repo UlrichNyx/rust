@@ -1,0 +1,11 @@
+[package]
+name = "ulrich_nyx_guessing_game"
+version = "0.1.0"
+edition = "2021"
+description = "The classic number guessing game with a leaderboard!"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+rand = "0.8.5"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
